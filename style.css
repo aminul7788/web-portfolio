@@ -60,7 +60,7 @@ section{
     border-image: linear-gradient(180deg,lightSalmon, tomato);
     border-image-slice: 1;
 }
-# baby-web{
+#baby-web{
     border-left: 7px;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
